@@ -40,7 +40,7 @@
     "gulp-uglify": "^1.4.1",
     "gulp-util": "^3.0.6",
     "jsdom": "^7.0.2",
-    "mocha": "^2.3.3",
+    "mocha": "^10.1.0",
     "node-minify": "^1.2.1",
     "node-sass": "^3.3.3",
     "sinon": "^1.17.1",
