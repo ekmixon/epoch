@@ -37,11 +37,11 @@
     "gulp-order": "^1.1.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.0.4",
-    "gulp-uglify": "^1.4.1",
+    "gulp-uglify": "^2.1.0",
     "gulp-util": "^3.0.6",
     "jsdom": "^7.0.2",
     "mocha": "^2.3.3",
-    "node-minify": "^1.2.1",
+    "node-minify": "^2.0.0",
     "node-sass": "^3.3.3",
     "sinon": "^1.17.1",
     "xmlhttprequest": "^1.7.0"
